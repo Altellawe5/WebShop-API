@@ -1,0 +1,27 @@
+@import "../constants.css";
+
+.add {
+  width: 100%;
+  padding: 10px;
+  background-color: var(--GreenMain);
+  border: none;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.add svg {
+  height: 20px;
+  width: 20px;
+  fill: white;
+}
+.add p {
+  color: white;
+  font-weight: 700;
+  font-size: 14px;
+  padding-left: 2px;
+}
+
+.add:hover {
+  background-color: var(--GreenMainHover);
+}

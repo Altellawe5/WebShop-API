@@ -1,0 +1,12 @@
+C:\Users\32495\Desktop\Magazaki\delhaize\obj\Debug\delhaize.react.app.esproj.SuggestedBindingRedirects.cache
+C:\Users\32495\Desktop\Magazaki\delhaize\obj\Debug\delhaize.react.app.esproj.CoreCompileInputs.cache
+C:\Users\32495\Desktop\Magazaki\WebshopApi\Apps\delhaize.react.app\obj\Debug\delhaize.react.app.esproj.SuggestedBindingRedirects.cache
+C:\Users\32495\Desktop\Magazaki\WebshopApi\Apps\delhaize.react.app\obj\Debug\delhaize.react.app.esproj.CoreCompileInputs.cache
+C:\Users\32495\Desktop\MagazakiFull\Magazaki_full\WebshopApi\Apps\delhaize.react.app\obj\Debug\delhaize.react.app.esproj.SuggestedBindingRedirects.cache
+C:\Users\32495\Desktop\MagazakiFull\Magazaki_full\WebshopApi\Apps\delhaize.react.app\obj\Debug\delhaize.react.app.esproj.CoreCompileInputs.cache
+S:\HOGent\Projectwerk\Magazaki_full\WebshopApi\Apps\delhaize.react.app\obj\Debug\delhaize.react.app.esproj.SuggestedBindingRedirects.cache
+S:\HOGent\Projectwerk\Magazaki_full\WebshopApi\Apps\delhaize.react.app\obj\Debug\delhaize.react.app.esproj.CoreCompileInputs.cache
+C:\Users\yazan\OneDrive\المستندات\GitHub\Magazaki_full\WebshopApi\Apps\delhaize.react.app\obj\Debug\delhaize.react.app.esproj.SuggestedBindingRedirects.cache
+C:\Users\yazan\OneDrive\المستندات\GitHub\Magazaki_full\WebshopApi\Apps\delhaize.react.app\obj\Debug\delhaize.react.app.esproj.CoreCompileInputs.cache
+C:\Users\32495\Desktop\Magazaki_full\WebshopApi\Apps\delhaize.react.app\obj\Debug\delhaize.react.app.esproj.SuggestedBindingRedirects.cache
+C:\Users\32495\Desktop\Magazaki_full\WebshopApi\Apps\delhaize.react.app\obj\Debug\delhaize.react.app.esproj.CoreCompileInputs.cache

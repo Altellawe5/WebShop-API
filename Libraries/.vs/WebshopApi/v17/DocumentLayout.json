@@ -1,0 +1,926 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|c:\\users\\yazan\\onedrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\github\\magazaki_full\\webshopapi\\libraries\\webshopapi.infrastructure\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.infrastructure\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|solutionrelative:webshopapi.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38774A-96AD-4EA1-B925-C4E8DB3D2ABB}|..\\Apps\\WebShopApi.Presentation\\WebShopApi.Presentation.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\apps\\webshopapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.rest\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|solutionrelative:webshopapi.rest\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.infrastructure\\dto\\productdbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\dto\\productdbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.infrastructure\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.infrastructure\\data\\webshopdbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\data\\webshopdbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.rest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|solutionrelative:webshopapi.rest\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.rest\\mapping\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|solutionrelative:webshopapi.rest\\mapping\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.infrastructure\\mapping\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\mapping\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38774A-96AD-4EA1-B925-C4E8DB3D2ABB}|..\\Apps\\WebShopApi.Presentation\\WebShopApi.Presentation.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\apps\\webshopapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38774A-96AD-4EA1-B925-C4E8DB3D2ABB}|..\\Apps\\WebShopApi.Presentation\\WebShopApi.Presentation.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\apps\\webshopapi.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.rest\\dto\\sending\\orderlinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|solutionrelative:webshopapi.rest\\dto\\sending\\orderlinedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.rest\\dto\\sending\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|solutionrelative:webshopapi.rest\\dto\\sending\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.rest\\dto\\sending\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|solutionrelative:webshopapi.rest\\dto\\sending\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.rest\\dto\\receiving\\getproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|solutionrelative:webshopapi.rest\\dto\\receiving\\getproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|S:\\HOGent\\Projectwerk\\Magazaki_full\\WebshopApi\\Apps\\WebShopApi.Presentation\\obj\\Release\\net6.0\\WebShopApi.Presentation.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.rest\\dto\\receiving\\getpricetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|solutionrelative:webshopapi.rest\\dto\\receiving\\getpricetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.rest\\dto\\sending\\storedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|solutionrelative:webshopapi.rest\\dto\\sending\\storedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.infrastructure\\dto\\pricetypedbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\dto\\pricetypedbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.infrastructure\\dto\\orderlinedbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\dto\\orderlinedbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.infrastructure\\dto\\orderdbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\dto\\orderdbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.infrastructure\\dto\\customerdbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\dto\\customerdbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.infrastructure\\dto\\categorydbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\dto\\categorydbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.domain\\services\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|solutionrelative:webshopapi.domain\\services\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.domain\\models\\supermarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|solutionrelative:webshopapi.domain\\models\\supermarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.infrastructure\\dto\\storedbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\dto\\storedbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.domain\\models\\pricetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|solutionrelative:webshopapi.domain\\models\\pricetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.domain\\models\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|solutionrelative:webshopapi.domain\\models\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|solutionrelative:webshopapi.domain\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|solutionrelative:webshopapi.domain\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.domain\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|solutionrelative:webshopapi.domain\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.domain\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|solutionrelative:webshopapi.domain\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.infrastructure\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\migrations\\mydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.infrastructure\\migrations\\20230405234548_newmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\migrations\\20230405234548_newmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.rest\\controllers\\pricetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|solutionrelative:webshopapi.rest\\controllers\\pricetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.rest\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|solutionrelative:webshopapi.rest\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.rest\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|solutionrelative:webshopapi.rest\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.infrastructure\\repositories\\efcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\repositories\\efcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.infrastructure\\repositories\\eforderlinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\repositories\\eforderlinerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.rest\\dto\\sending\\pricetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|solutionrelative:webshopapi.rest\\dto\\sending\\pricetypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.domain\\services\\orderlineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|solutionrelative:webshopapi.domain\\services\\orderlineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.domain\\services\\ihasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|solutionrelative:webshopapi.domain\\services\\ihasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.infrastructure\\repositories\\eforderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\repositories\\eforderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00189AB3-A52F-475A-9DF8-0E9EFC6A2751}|WebshopApi.Domain\\WebshopApi.Domain.csproj|solutionrelative:webshopapi.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.infrastructure\\repositories\\efstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\repositories\\efstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.infrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E135F1A9-97BE-4E2F-AF46-44F304F2CC50}|WebshopApi.Infrastructure\\WebshopApi.Infrastructure.csproj|solutionrelative:webshopapi.infrastructure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\webshopapi.rest\\dto\\sending\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6689FC29-D045-4981-B5F6-6787CB829749}|WebshopApi.REST\\WebshopApi.REST.csproj|solutionrelative:webshopapi.rest\\dto\\sending\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C38774A-96AD-4EA1-B925-C4E8DB3D2ABB}|..\\Apps\\WebShopApi.Presentation\\WebShopApi.Presentation.csproj|C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\apps\\webshopapi.presentation\\programmm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EfCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Repositories\\EfCategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\Repositories\\EfCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Repositories\\EfCategoryRepository.cs",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\Repositories\\EfCategoryRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T22:00:34.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Data\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\Data\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Data\\MyDbContext.cs",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\Data\\MyDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA9wBwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebshopApi.REST\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebshopApi.REST\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwDAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EfProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Repositories\\EfProductRepository.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\Repositories\\EfProductRepository.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Repositories\\EfProductRepository.cs",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\Repositories\\EfProductRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDbDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\DTO\\ProductDbDTO.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\DTO\\ProductDbDTO.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\DTO\\ProductDbDTO.cs",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\DTO\\ProductDbDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Apps\\WebShopApi.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Apps\\WebShopApi.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Apps\\WebShopApi.Presentation\\Program.cs",
+              "RelativeToolTip": "..\\Apps\\WebShopApi.Presentation\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Domain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Models\\Product.cs",
+              "RelativeToolTip": "WebshopApi.Domain\\Models\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebshopApi.REST\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebshopApi.REST\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAkwDMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebShopDbContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Data\\WebShopDbContextSeed.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\Data\\WebShopDbContextSeed.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Data\\WebShopDbContextSeed.cs",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\Data\\WebShopDbContextSeed.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-09T18:46:23.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\Mapping\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "WebshopApi.REST\\Mapping\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\Mapping\\MappingConfig.cs*",
+              "RelativeToolTip": "WebshopApi.REST\\Mapping\\MappingConfig.cs*",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBgAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Mapping\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\Mapping\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Mapping\\MappingConfig.cs*",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\Mapping\\MappingConfig.cs*",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Apps\\WebShopApi.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Apps\\WebShopApi.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Apps\\WebShopApi.Presentation\\appsettings.json",
+              "RelativeToolTip": "..\\Apps\\WebShopApi.Presentation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-05-17T13:04:53.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Apps\\WebShopApi.Presentation\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\Apps\\WebShopApi.Presentation\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Apps\\WebShopApi.Presentation\\appsettings.Development.json",
+              "RelativeToolTip": "..\\Apps\\WebShopApi.Presentation\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-06-06T13:42:23.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderLineDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\DTO\\Sending\\OrderLineDTO.cs",
+              "RelativeDocumentMoniker": "WebshopApi.REST\\DTO\\Sending\\OrderLineDTO.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\DTO\\Sending\\OrderLineDTO.cs",
+              "RelativeToolTip": "WebshopApi.REST\\DTO\\Sending\\OrderLineDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\DTO\\Sending\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "WebshopApi.REST\\DTO\\Sending\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\DTO\\Sending\\OrderDTO.cs",
+              "RelativeToolTip": "WebshopApi.REST\\DTO\\Sending\\OrderDTO.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetProductsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\DTO\\Receiving\\GetProductsDTO.cs",
+              "RelativeDocumentMoniker": "WebshopApi.REST\\DTO\\Receiving\\GetProductsDTO.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\DTO\\Receiving\\GetProductsDTO.cs",
+              "RelativeToolTip": "WebshopApi.REST\\DTO\\Receiving\\GetProductsDTO.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAxwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\DTO\\Sending\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "WebshopApi.REST\\DTO\\Sending\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\DTO\\Sending\\ProductDTO.cs",
+              "RelativeToolTip": "WebshopApi.REST\\DTO\\Sending\\ProductDTO.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebShopApi.Presentation.AssemblyInfo.cs",
+              "DocumentMoniker": "S:\\HOGent\\Projectwerk\\Magazaki_full\\WebshopApi\\Apps\\WebShopApi.Presentation\\obj\\Release\\net6.0\\WebShopApi.Presentation.AssemblyInfo.cs",
+              "ToolTip": "S:\\HOGent\\Projectwerk\\Magazaki_full\\WebshopApi\\Apps\\WebShopApi.Presentation\\obj\\Release\\net6.0\\WebShopApi.Presentation.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-13T14:06:47.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetPriceTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\DTO\\Receiving\\GetPriceTypeDTO.cs",
+              "RelativeDocumentMoniker": "WebshopApi.REST\\DTO\\Receiving\\GetPriceTypeDTO.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\DTO\\Receiving\\GetPriceTypeDTO.cs",
+              "RelativeToolTip": "WebshopApi.REST\\DTO\\Receiving\\GetPriceTypeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StoreDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\DTO\\Sending\\StoreDTO.cs",
+              "RelativeDocumentMoniker": "WebshopApi.REST\\DTO\\Sending\\StoreDTO.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\DTO\\Sending\\StoreDTO.cs",
+              "RelativeToolTip": "WebshopApi.REST\\DTO\\Sending\\StoreDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderLine.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Models\\OrderLine.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Domain\\Models\\OrderLine.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Models\\OrderLine.cs",
+              "RelativeToolTip": "WebshopApi.Domain\\Models\\OrderLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Domain\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Models\\Order.cs",
+              "RelativeToolTip": "WebshopApi.Domain\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Domain\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Models\\Customer.cs",
+              "RelativeToolTip": "WebshopApi.Domain\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderLineDbDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\DTO\\OrderLineDbDTO.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\DTO\\OrderLineDbDTO.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\DTO\\OrderLineDbDTO.cs",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\DTO\\OrderLineDbDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAACBjwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StoreService.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Services\\StoreService.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Domain\\Services\\StoreService.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Services\\StoreService.cs",
+              "RelativeToolTip": "WebshopApi.Domain\\Services\\StoreService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderDbDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\DTO\\OrderDbDTO.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\DTO\\OrderDbDTO.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\DTO\\OrderDbDTO.cs",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\DTO\\OrderDbDTO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PriceTypeDbDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\DTO\\PriceTypeDbDTO.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\DTO\\PriceTypeDbDTO.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\DTO\\PriceTypeDbDTO.cs",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\DTO\\PriceTypeDbDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PriceType.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Models\\PriceType.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Domain\\Models\\PriceType.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Models\\PriceType.cs",
+              "RelativeToolTip": "WebshopApi.Domain\\Models\\PriceType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerDbDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\DTO\\CustomerDbDTO.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\DTO\\CustomerDbDTO.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\DTO\\CustomerDbDTO.cs",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\DTO\\CustomerDbDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAACBjwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryDbDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\DTO\\CategoryDbDTO.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\DTO\\CategoryDbDTO.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\DTO\\CategoryDbDTO.cs",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\DTO\\CategoryDbDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Domain\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Models\\Store.cs",
+              "RelativeToolTip": "WebshopApi.Domain\\Models\\Store.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Supermarket.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Models\\Supermarket.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Domain\\Models\\Supermarket.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Models\\Supermarket.cs",
+              "RelativeToolTip": "WebshopApi.Domain\\Models\\Supermarket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StoreDbDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\DTO\\StoreDbDTO.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\DTO\\StoreDbDTO.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\DTO\\StoreDbDTO.cs",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\DTO\\StoreDbDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Domain\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Models\\Category.cs",
+              "RelativeToolTip": "WebshopApi.Domain\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\Migrations\\MyDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Migrations\\MyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\Migrations\\MyDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABIBAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20230405234548_newMigration.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Migrations\\20230405234548_newMigration.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\Migrations\\20230405234548_newMigration.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Migrations\\20230405234548_newMigration.cs",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\Migrations\\20230405234548_newMigration.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PriceTypesController.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\Controllers\\PriceTypesController.cs",
+              "RelativeDocumentMoniker": "WebshopApi.REST\\Controllers\\PriceTypesController.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\Controllers\\PriceTypesController.cs",
+              "RelativeToolTip": "WebshopApi.REST\\Controllers\\PriceTypesController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebshopApi.REST\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebshopApi.REST\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "WebshopApi.REST\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "WebshopApi.REST\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwBwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EfCustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Repositories\\EfCustomerRepository.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\Repositories\\EfCustomerRepository.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Repositories\\EfCustomerRepository.cs",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\Repositories\\EfCustomerRepository.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EfOrderLineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Repositories\\EfOrderLineRepository.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\Repositories\\EfOrderLineRepository.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Repositories\\EfOrderLineRepository.cs",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\Repositories\\EfOrderLineRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PriceTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\DTO\\Sending\\PriceTypeDTO.cs",
+              "RelativeDocumentMoniker": "WebshopApi.REST\\DTO\\Sending\\PriceTypeDTO.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\DTO\\Sending\\PriceTypeDTO.cs",
+              "RelativeToolTip": "WebshopApi.REST\\DTO\\Sending\\PriceTypeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IHasher.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Services\\IHasher.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Domain\\Services\\IHasher.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Services\\IHasher.cs",
+              "RelativeToolTip": "WebshopApi.Domain\\Services\\IHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderLineService.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Services\\OrderLineService.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Domain\\Services\\OrderLineService.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Services\\OrderLineService.cs",
+              "RelativeToolTip": "WebshopApi.Domain\\Services\\OrderLineService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EfOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Repositories\\EfOrderRepository.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\Repositories\\EfOrderRepository.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Repositories\\EfOrderRepository.cs",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\Repositories\\EfOrderRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\appsettings.json",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\appsettings.json",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\appsettings.json",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-05-17T13:04:53.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "WebshopApi.Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EfStoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Repositories\\EfStoreRepository.cs",
+              "RelativeDocumentMoniker": "WebshopApi.Infrastructure\\Repositories\\EfStoreRepository.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.Infrastructure\\Repositories\\EfStoreRepository.cs",
+              "RelativeToolTip": "WebshopApi.Infrastructure\\Repositories\\EfStoreRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\DTO\\Sending\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "WebshopApi.REST\\DTO\\Sending\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Libraries\\WebshopApi.REST\\DTO\\Sending\\CategoryDTO.cs",
+              "RelativeToolTip": "WebshopApi.REST\\DTO\\Sending\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAACBjwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Programmm.cs",
+              "DocumentMoniker": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Apps\\WebShopApi.Presentation\\Programmm.cs",
+              "RelativeDocumentMoniker": "..\\Apps\\WebShopApi.Presentation\\Programmm.cs",
+              "ToolTip": "C:\\Users\\yazan\\OneDrive\\\u0627\u0644\u0645\u0633\u062A\u0646\u062F\u0627\u062A\\GitHub\\Magazaki_full\\WebshopApi\\Apps\\WebShopApi.Presentation\\Programmm.cs",
+              "RelativeToolTip": "..\\Apps\\WebShopApi.Presentation\\Programmm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAACBzwBAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-17T13:04:53.906Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

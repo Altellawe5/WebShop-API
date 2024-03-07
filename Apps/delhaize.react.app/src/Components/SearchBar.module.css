@@ -1,0 +1,46 @@
+@import "../constants.css";
+
+.bar {
+  margin: auto 0;
+  display: flex;
+  width: 320px;
+  height: 32px;
+  border: 2px solid var(--GreenMain);
+  border-radius: 5px;
+}
+.bar:hover {
+  border: 2px solid var(--GreenMainHover);
+}
+
+.bar input {
+  background-color: transparent;
+  border: unset;
+  height: 100%;
+  width: 100%;
+  font-size: 14px;
+  padding: 0px 10px;
+}
+.bar input:focus-visible {
+  outline: none;
+}
+
+.bar .search {
+  height: 100%;
+  width: 32px;
+  background-color: var(--GreenMain);
+  border: unset;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bar:hover .search {
+  background-color: var(--GreenMainHover);
+}
+
+.search svg {
+  fill: white;
+  height: 20px;
+  width: 20px;
+}

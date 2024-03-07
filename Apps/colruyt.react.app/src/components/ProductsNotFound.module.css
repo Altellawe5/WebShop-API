@@ -1,0 +1,14 @@
+.productsNotFound {
+    text-align: center;
+    margin: 20px;
+}
+
+.productsNotFound h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.productsNotFound p {
+    font-size: 16px;
+    color: #666;
+}

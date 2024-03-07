@@ -1,0 +1,91 @@
+@import "../constants.css";
+
+.navigatie {
+  height: 50px;
+  width: auto;
+  background-color: var(--NavBarBackground);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navBar {
+  position: relative;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  max-width: 700px;
+}
+
+.left {
+  position: absolute;
+  height: 100%;
+  width: 40px;
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    90deg,
+    var(--NavBarBackground) 0%,
+    var(--NavBarBackground) 25%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  pointer-events: none;
+}
+.right {
+  position: absolute;
+  height: 100%;
+  width: 40px;
+  top: 0;
+  right: 0;
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 0) 0%,
+    var(--NavBarBackground) 75%,
+    var(--NavBarBackground) 100%
+  );
+  pointer-events: none;
+}
+
+.scrollable {
+  list-style-type: none;
+  white-space: nowrap;
+  scroll-behavior: smooth;
+  overflow: hidden;
+  padding: 0 20px;
+}
+.navButton {
+  width: 30px;
+  height: 30px;
+  margin: 0 5px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  border: none;
+}
+.navButton:hover svg {
+  width: 100%;
+  height: 100%;
+}
+
+.navButton svg {
+  width: 80%;
+  height: 80%;
+  fill: white;
+}
+
+.categorieItem {
+  display: inline-block;
+  background-color: var(--HoverGreyDark2);
+  color: white;
+  padding: 5px 15px;
+  margin: 0 5px;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.categorieItem:hover {
+  background-color: var(--HoverGreyDark1);
+}

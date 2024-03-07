@@ -1,0 +1,20 @@
+:root {
+  --MainBackground: #f1f6d5;
+  --NavBarBackground: #424242;
+  --FooterBackground: #25232c;
+
+  --GreenMain: #447901;
+  --GreenMainHover: #223d01;
+
+  --HoverGreyLight: #eee;
+  --HoverGreyDark1: #686868;
+  --HoverGreyDark2: #555;
+
+  --CardBorder: #ccc;
+
+  --FontColor: #292e31;
+
+  --registrationBackground: #cae6ea;
+  --registrationMain: #008497;
+  --registrationHover: #005e6b;
+}

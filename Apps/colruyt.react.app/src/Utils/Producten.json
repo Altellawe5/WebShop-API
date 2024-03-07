@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "naam": "Bananen",
+    "merk": "Del Monte",
+    "prijs": 5.99,
+    "prijsType": "/500gr",
+    "nutriScore": ""
+  },
+  {
+    "id": 2,
+    "naam": "Sla",
+    "merk": "Delhaize",
+    "prijs": 2.59,
+    "prijsType": "/stk",
+    "nutriScore": "A"
+  },
+  {
+    "id": 3,
+    "naam": "Blond bier",
+    "merk": "Jupiler",
+    "prijs": 2.99,
+    "prijsType": "/50cl",
+    "nutriScore": "E"
+  },
+  {
+    "id": 4,
+    "naam": "Wit brood",
+    "merk": "Delhaize",
+    "prijs": 3.99,
+    "prijsType": "/stk",
+    "nutriScore": "C"
+  },
+  {
+    "id": 5,
+    "naam": "Witte bonen in tomaten saus",
+    "merk": "Hak",
+    "prijs": 1.99,
+    "prijsType": "/stk",
+    "nutriScore": "A"
+  },
+  {
+    "id": 6,
+    "naam": "Pizza margherita, Con basilico",
+    "merk": "Dr. Oetker",
+    "prijs": 3.69,
+    "prijsType": "/stk",
+    "nutriScore": "C"
+  },
+  {
+    "id": 7,
+    "naam": "Smeerpasta met hazelnoten",
+    "merk": "Nutella",
+    "prijs": 5.89,
+    "prijsType": "/stk",
+    "nutriScore": "D"
+  },
+  {
+    "id": 8,
+    "naam": "Kippenborst filet",
+    "merk": "Delhaize",
+    "prijs": 7.99,
+    "prijsType": "/600gr",
+    "nutriScore": "A"
+  },
+  {
+    "id": 9,
+    "naam": "Frog",
+    "merk": "Frog",
+    "prijs": 999.99,
+    "prijsType": "/frog",
+    "nutriScore": "E"
+  },
+  {
+    "id": 10,
+    "naam": "Trostomaat",
+    "merk": "Delhaize",
+    "prijs": 5.99,
+    "prijsType": "/500gr",
+    "nutriScore": "A"
+  },
+  {
+    "id": 11,
+    "naam": "Witte Sandwiches",
+    "merk": "Delhaize",
+    "prijs": 1.29,
+    "prijsType": "/10stk",
+    "nutriScore": "B"
+  }
+]

@@ -1,0 +1,129 @@
+@import "../constants.css";
+
+.body {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  background-color: var(--registrationBackground);
+}
+
+.header {
+  background-color: white;
+  height: 50px;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+.logo {
+  position: absolute;
+  bottom: -8px;
+  margin: 0 50px;
+  height: 50px;
+  width: auto;
+  fill: var(--registrationBackground);
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+}
+
+.imageContainer {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  max-width: 360px;
+}
+.imageContainer img {
+  width: 100%;
+  object-fit: contain;
+  border-radius: 20px;
+}
+
+.imageContainer p {
+  position: absolute;
+  top: 32px;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 700;
+  font-size: 32px;
+  text-align: center;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.formContainer {
+  width: 30%;
+}
+.form label {
+  font-weight: 700;
+  padding-top: 10px;
+  font-size: 14px;
+  display: block;
+  align-self: flex-start;
+}
+
+.form input {
+  width: 100%;
+  height: 50px;
+  border: 2px solid var(--CardBorder);
+  font-size: 16px;
+  padding: 0 16px;
+  border-radius: 4px;
+  margin: 5px 0;
+  box-sizing: border-box;
+}
+.textContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.greet {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+}
+.instruction {
+  text-align: center;
+  margin: 15px 0 30px 0;
+  font-size: 16px;
+  max-width: 280px;
+}
+
+.form input:focus-visible {
+  outline: none;
+}
+
+.form input:focus {
+  border: 2px solid var(--registrationMain);
+  box-shadow: 0px 1px 0px 0px var(--CardBorder);
+}
+.buttonContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  background-color: var(--registrationMain);
+  border: none;
+  border-radius: 5px;
+  padding: 15px 70px;
+  margin-top: 30px;
+  color: white;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: var(--registrationHover);
+}

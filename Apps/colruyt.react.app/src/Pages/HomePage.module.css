@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .mainBody {
+    padding-left: 80px;
+    background-color: #f8f8f8;
+    height: 100vh;
+    overflow-x: hidden;
+  }
+  
+  .container {
+    z-index: 100;
+  }
+  

@@ -1,0 +1,79 @@
+
+
+.header {
+  border: 1px solid lightgrey;
+  height: 80px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: white;
+}
+.logoContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+
+}
+.logo {
+  padding: 10px;
+  border-right: 1px solid lightgrey;
+}
+
+.logoText {
+  padding: 10px;
+  font-size: 12px;
+}
+
+.btnLogin {
+  padding: 10px;
+  margin-right: 50px;
+  border: none;
+  background-color: white;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.btnLogin:hover {
+  background-color: lightgrey;
+}
+
+.btnImg {
+  width: auto;
+  height: 30px;
+  padding-right: 10px;
+}
+
+.btnTxt {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.borderRight {
+  border-right: 1px solid var(--ItemBorders) !important;
+  padding-right: 5px;
+  margin-right: 5px;
+}
+
+.basket {
+  border-left: 1px solid lightgrey;
+  border-top: none;
+  border-right: none;
+  border-bottom: none;  
+  width: 80px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.basketImg {
+  width: 22.5px;
+  height: 30px;
+}
+
+.btnBasket {
+  border: none;
+  background-color: white;
+}

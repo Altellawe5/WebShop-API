@@ -1,0 +1,212 @@
+@import "../constants.css";
+
+.mainContainer {
+  background-color: white;
+  border-radius: 20px;
+  min-height: 500px;
+  padding: 40px;
+}
+
+.sorteerBar {
+  border-bottom: 1px solid var(--CardBorder);
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+}
+
+.WinkelmandjeLeegMaken {
+  display: flex;
+  align-items: center;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.WinkelmandjeLeegMaken:hover {
+  background-color: var(--HoverGreyLight);
+}
+.WinkelmandjeLeegMaken svg {
+  fill: var(--GreenMain);
+}
+.WinkelmandjeLeegMaken p {
+  color: var(--GreenMain);
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.titel {
+  font-size: 48px;
+  font-weight: 700;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.childContainer {
+  display: flex;
+}
+
+.productContainer {
+  width: 100%;
+}
+
+.aantalProducten {
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.betaalContainer {
+  border: 1px solid var(--CardBorder);
+  border-radius: 10px;
+  width: 500px;
+  margin-left: 40px;
+  padding: 20px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.bedragContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid var(--CardBorder);
+  padding: 20px 0;
+  width: 100%;
+}
+
+.bedragTekst {
+  font-size: 18px;
+}
+.bedrag {
+  font-weight: 700;
+  font-size: 32px;
+}
+
+.betaalButton {
+  border: none;
+  background-color: var(--GreenMain);
+  width: 100%;
+  padding: 10px;
+  border-radius: 15px;
+  color: white;
+  font-weight: 700;
+  font-size: 24px;
+  font-family: "Times New Roman", Times, serif;
+  cursor: pointer;
+  margin: 20px 0;
+  box-sizing: border-box;
+}
+
+.betaalButton:hover {
+  background-color: var(--GreenMainHover);
+}
+
+.betaalMethodenTekst {
+  font-weight: 700;
+  width: 100%;
+}
+.methoden {
+  display: flex;
+  justify-content: center;
+}
+
+.methoden img {
+  border: 1px solid var(--CardBorder);
+  margin: 15px 4px 0 4px;
+  border-radius: 4px;
+}
+
+.product {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid var(--CardBorder);
+  padding: 20px;
+}
+.productLeft {
+  width: 40%;
+  display: flex;
+}
+.productCenter {
+  display: flex;
+  width: 40%;
+}
+.productRight {
+  width: 20%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.productButton {
+  height: 40px;
+  min-width: 40px;
+  margin: 5px;
+  border-radius: 5px;
+  border: none;
+  background-color: transparent;
+}
+.hoeveelButton {
+  background-color: var(--GreenMain);
+  color: white;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+}
+.hoeveelButton:hover {
+  background-color: var(--GreenMainHover);
+}
+
+.productAantal {
+  border: 1px solid var(--CardBorder);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 15px;
+}
+
+.verwijderProduct {
+  cursor: pointer;
+}
+
+.verwijderProduct svg {
+  fill: darkcyan;
+}
+.verwijderProduct:hover {
+  background-color: var(--HoverGreyLight);
+}
+
+.totaalBedrag {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  font-size: 24px;
+  font-weight: 700;
+  width: 100px;
+}
+
+.imgContainer {
+  width: auto;
+  height: 50px;
+  margin-right: 20px;
+}
+.imgContainer img {
+  width: 50px;
+  height: auto;
+  object-fit: contain;
+}
+
+.naam {
+  font-size: 18px;
+  font-weight: 700;
+}
+.merk {
+  font-size: 14px;
+}
+.prijsType {
+  font-size: 12px;
+}

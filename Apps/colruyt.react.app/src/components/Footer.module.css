@@ -1,0 +1,63 @@
+@import "../index.css";
+
+
+footer {
+    background-color: var(--FooterBackground);
+    color: #fff;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    font-size: .75rem;
+    position: static;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    padding-left: 15px;
+}
+
+
+.logoDiv {
+    height: 100%;
+    width: 100%;
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    padding-top: 10px;
+    height: 100%;
+    width: 100%;
+}
+
+.listDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 2rem;
+}
+
+.footerLinks {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    margin: 0;
+    padding: .5rem .3rem .3rem .3rem;
+    gap: .6rem;
+    font-size: small;
+}
+
+li {
+    list-style: none;
+}
+
+ul li:not(:last-child)::after {
+    content: "  |";
+    margin-left: 4px;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+}

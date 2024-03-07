@@ -1,0 +1,30 @@
+@import "../index.css";
+
+.add {
+  width: 100%;
+  background-color: var(--ColruytOrange);
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.add svg {
+  height: 20px;
+  width: 20px;
+  fill: white;
+}
+
+.add p {
+  color: white;
+  font-weight: 700;
+  font-size: 14px;
+  margin-top: .9rem;
+  padding-left: .5rem;
+}
+
+.add:hover {
+  background-color: var(--HoverColruytOrange);
+}
